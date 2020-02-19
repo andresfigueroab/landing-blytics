@@ -1,2 +1,2 @@
 # landing-blytics
-Landin page Blytics
+Landing page Blytics
